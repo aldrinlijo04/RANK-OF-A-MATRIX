@@ -17,7 +17,7 @@ sol=np.linalg.matrix_rank(A)
 print(sol)
 ```
 ## Output:
-![output]()
+![output](/rank.png)
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
